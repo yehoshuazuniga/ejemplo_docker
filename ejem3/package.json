@@ -1,0 +1,14 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+    "type": "module",
+  "description": "Muestra la hora actual en consola cada cierto intervalo",
+  "main": "app.js",
+  "scripts": {
+    "test":"echo\"Error: no test specified\" && exit 1"
+},
+"license":"ISC",
+  "dependencies": {
+    "dateformat": "^5.0.3"
+  }
+}
